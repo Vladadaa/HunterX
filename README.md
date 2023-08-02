@@ -56,3 +56,4 @@ See the full list [here](https://github.com/AdiChat/Repository-Hunter/wiki/Rank-
 New exciting features coming soon. 🎉 
 
 Consider giving this repository a 🌟 if you enjoyed it. <br>
+borrow
