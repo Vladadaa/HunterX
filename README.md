@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/AdiChat/Repository-Hunter](https://badges.gitter.im/AdiChat/Repository-Hunter.svg)](https://gitter.im/AdiChat/Repository-Hunter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/license-CC0--1.0-orange.svg)](https://img.shields.io/badge/license-CC0--1.0-orange.svg)<br>
 
-### Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ...<br>
+### Making GitHub:octocat: more socially engaging 🎮 and fun 🍥 for all 👦 + 👧 + 👴 + 👶 + 🐮 + 🐦 + 🐱 ....<br>
 
 ![alt text](https://github.com/AdiChat/Repository-Hunter/blob/master/Preview/repository_hunter_1.3.gif " The view of the application")<br>
 
