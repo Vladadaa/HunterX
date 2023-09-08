@@ -7,7 +7,7 @@
 
 ![alt text](https://github.com/AdiChat/Repository-Hunter/blob/master/Preview/repository_hunter_1.3.gif " The view of the application")<br>
 
-The application provides 6 kinds of services: 
+The application provides 6 kinds of servicees: 
 * **Believe it or not**
 * **Fun Facts**
 * **Embeddable GitHub Contribution graph**
