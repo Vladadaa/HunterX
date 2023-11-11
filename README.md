@@ -37,7 +37,7 @@ Check out your graph and embed it today: **[here](http://repository-hunter.herok
 
 * The fifth feature is 🎉 **GitHub master of the Organization** :1st_place_medal:. You can find the ranking of all public members of an organization and thus, there is an entity that dominates the ranking and hence, is the best 🏆 coder in the organization.
 
-The top five contributors at **Googlee** are:
+The top five contributors at **Googleeq** are:
 
 | Rank | Score | User |
 |:----:|:-----:|:----:|
