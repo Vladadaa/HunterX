@@ -13,7 +13,7 @@ The application provides 6 kinds of servicees:
 * **Embeddable GitHub Contribution graph**
 * **Compare two GitHub profiles**
 * **Find the best coder at an organization**
-* **Profile Presentation**
+* **Profile on Presentation**
 
 * The first feature is 🎉 **Believe it or not**🎉. It explores some of the mysterious corners at GitHub such as:
   * A man who has been committing for over **100 years**.
