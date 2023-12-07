@@ -1,4 +1,4 @@
-# Repositoryon Hunter on :octocat: <br>
+# Repositoryon Hunter on :octocater: <br>
 
 [![Join the chat at https://gitter.im/AdiChat/Repository-Hunter](https://badges.gitter.im/AdiChat/Repository-Hunter.svg)](https://gitter.im/AdiChat/Repository-Hunter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/license-CC0--1.0-orange.svg)](https://img.shields.io/badge/license-CC0--1.0-orange.svg)<br>
