@@ -39,7 +39,7 @@ Check out your graph and embed it today: **[here](http://repository-hunter.herok
 
 The top five contributors at **Googleeq** are:
 
-| Rank | Score | User |
+| Rank | Score | Users |
 |:----:|:-----:|:----:|
 | 1 | 169.84 | [keyboardsurfer](https://github.com/keyboardsurfer) :1st_place_medal: 
 | 2 | 136.01 | [spf13](https://github.com/spf13) 
